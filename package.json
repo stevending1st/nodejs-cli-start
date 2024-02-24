@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-command-line-start",
+  "version": "0.0.1",
+  "description": "Node.js Command Line start template",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stevending1st",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevending1st/nodejs-command-line-start.git"
+  }
+}
